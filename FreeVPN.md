@@ -1,6 +1,6 @@
 |国家 |地区 |模式 |服务器 |端口 |账户 |密码 |
 | --- | --- | --- | --- | --- | --- | --- |
-|AE |United Arab Emirates 1 |SOCKS4 |2.50.154.155 |4145 | | 
+AE |United Arab Emirates 1 |SOCKS4 |2.50.154.155 |4145 | | 
 AL |Albania 1 |SOCKS4 |79.106.14.13 |4145 | | 
 AL |Albania 2 |SOCKS4 |185.188.218.14 |4145 | | 
 AL |Albania 3 |SOCKS4 |82.114.82.90 |56068 | | 

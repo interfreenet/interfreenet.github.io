@@ -1,4 +1,4 @@
-## FreeVPN
+## PrimeVPN
 [Chrome插件下载地址 ](https://github.com/interfreenet/interfreenet.github.io/blob/master/VPN/FreeVPN/Free%20VPN%20Proxy.crx)
 
 [Chrome扩展商城地址](https://chrome.google.com/webstore/detail/primevpn-unlimited-vpn-se/akkbkhnikoeojlhiiomohpdnkhbkhieh)
@@ -13,6 +13,7 @@ Android推荐使用：Clash 、 Surfboard 、 Drony
 IOS推荐使用：Shadowrocket
 
 ## 爬取的节点
+[官方节点信息地址](https://primevpn.pro/servers/)
 
 先测Ping 后使用
 

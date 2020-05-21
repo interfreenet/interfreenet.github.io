@@ -1,4 +1,5 @@
 ## 软件推荐
+[Chrome插件下载地址 ](https://github.com/interfreenet/interfreenet.github.io/blob/master/VPN/FreeVPN/Free%20VPN%20Proxy.crx)
 
 Windows推荐使用：Clash 、 Proxy SwitchyOmega
 

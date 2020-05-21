@@ -1,1 +1,1 @@
-[FreeVPN](https://interfreenet.eu.org/FreeVPN)
+[FreeVPN](https://interfreenet.eu.org/VPN/FreeVPN/FreeVPN)

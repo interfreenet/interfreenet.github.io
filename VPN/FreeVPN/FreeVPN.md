@@ -1,3 +1,15 @@
+## 软件推荐
+
+Windows推荐使用：Clash 、 Proxy SwitchyOmega
+
+Android推荐使用：Clash 、 Surfboard 、 Drony
+
+IOS推荐使用：Shadowrocket
+
+## 爬取的节点
+
+先测Ping 后使用
+
 |国家 |地区 |模式 |服务器 |端口 |账户 |密码 |
 | --- | --- | --- | --- | --- | --- | --- |
 AE |United Arab Emirates 1 |SOCKS4 |2.50.154.155 |4145 | | 

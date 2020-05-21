@@ -1,6 +1,11 @@
-## 软件推荐
+## FreeVPN
 [Chrome插件下载地址 ](https://github.com/interfreenet/interfreenet.github.io/blob/master/VPN/FreeVPN/Free%20VPN%20Proxy.crx)
 
+[Chrome扩展商城地址](https://chrome.google.com/webstore/detail/primevpn-unlimited-vpn-se/akkbkhnikoeojlhiiomohpdnkhbkhieh)
+
+插件目录：`C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions`
+
+## 软件推荐
 Windows推荐使用：Clash 、 Proxy SwitchyOmega
 
 Android推荐使用：Clash 、 Surfboard 、 Drony
